@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Adi-God-7/Leet/tree/master/0056-merge-intervals) |
+| [0066-plus-one](https://github.com/Adi-God-7/Leet/tree/master/0066-plus-one) |
 ## Sorting
 |  |
 | ------- |
@@ -13,4 +14,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/Adi-God-7/Leet/tree/master/0058-length-of-last-word) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/Adi-God-7/Leet/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
