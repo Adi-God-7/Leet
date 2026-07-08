@@ -11,12 +11,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/Adi-God-7/Leet/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/Adi-God-7/Leet/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/Adi-God-7/Leet/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/Adi-God-7/Leet/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Adi-God-7/Leet/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/Adi-God-7/Leet/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Adi-God-7/Leet/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Adi-God-7/Leet/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -29,10 +31,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Adi-God-7/Leet/tree/master/0069-sqrtx) |
 | [0149-max-points-on-a-line](https://github.com/Adi-God-7/Leet/tree/master/0149-max-points-on-a-line) |
 | [0263-ugly-number](https://github.com/Adi-God-7/Leet/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/Adi-God-7/Leet/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Adi-God-7/Leet/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/Adi-God-7/Leet/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -42,12 +46,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Adi-God-7/Leet/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Adi-God-7/Leet/tree/master/0190-reverse-bits) |
+| [0268-missing-number](https://github.com/Adi-God-7/Leet/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/Adi-God-7/Leet/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/Adi-God-7/Leet/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Adi-God-7/Leet/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Adi-God-7/Leet/tree/master/0268-missing-number) |
 ## Geometry
 |  |
 | ------- |
