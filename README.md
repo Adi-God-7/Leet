@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Adi-God-7/Leet/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Adi-God-7/Leet/tree/master/0069-sqrtx) |
 | [0149-max-points-on-a-line](https://github.com/Adi-God-7/Leet/tree/master/0149-max-points-on-a-line) |
+| [0263-ugly-number](https://github.com/Adi-God-7/Leet/tree/master/0263-ugly-number) |
 ## Binary Search
 |  |
 | ------- |
