@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Adi-God-7/Leet/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/Adi-God-7/Leet/tree/master/0279-perfect-squares) |
 | [0292-nim-game](https://github.com/Adi-God-7/Leet/tree/master/0292-nim-game) |
+| [0342-power-of-four](https://github.com/Adi-God-7/Leet/tree/master/0342-power-of-four) |
 ## Binary Search
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Adi-God-7/Leet/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Adi-God-7/Leet/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/Adi-God-7/Leet/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/Adi-God-7/Leet/tree/master/0342-power-of-four) |
 ## Hash Table
 |  |
 | ------- |
@@ -103,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0289-game-of-life](https://github.com/Adi-God-7/Leet/tree/master/0289-game-of-life) |
+## Recursion
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/Adi-God-7/Leet/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
