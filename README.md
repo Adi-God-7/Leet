@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Adi-God-7/Leet/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Adi-God-7/Leet/tree/master/0509-fibonacci-number) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Adi-God-7/Leet/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Adi-God-7/Leet/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Binary Search
 |  |
 | ------- |
