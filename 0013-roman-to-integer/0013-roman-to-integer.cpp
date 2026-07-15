@@ -1,26 +1,26 @@
-#include <unordered_map>
-#include <string>
-
-using namespace std;
-
 class Solution {
 public:
+    int getValue(char c) {
+        if (c == 'I') return 1;
+        if (c == 'V') return 5;
+        if (c == 'X') return 10;
+        if (c == 'L') return 50;
+        if (c == 'C') return 100;
+        if (c == 'D') return 500;
+        if (c == 'M') return 1000;
+        return 0;
+    }
     int romanToInt(string s) {
-        unordered_map<char, int> roman = {
-            {'I', 1}, {'V', 5}, {'X', 10}, {'L', 50},
-            {'C', 100}, {'D', 500}, {'M', 1000}
-        };
-        
         int total = 0;
-        
-        for(int i = 0; i < s.length(); i++) {
-            if (i + 1 < s.length() && roman[s[i]] < roman[s[i+1]]) {
-                total -= roman[s[i]];
-            } else {
-                total += roman[s[i]];
+        for (int i = 0; i < s.length(); i++) {
+            int current = getValue(s[i]);
+            if (i + 1 < s.length() && current < getValue(s[i + 1])) {
+                total -= current;
+            }
+            else {
+                total += current;
             }
         }
-        
         return total;
     }
 };
