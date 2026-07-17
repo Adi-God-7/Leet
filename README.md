@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Adi-God-7/Leet/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Adi-God-7/Leet/tree/master/0485-max-consecutive-ones) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Adi-God-7/Leet/tree/master/2553-separate-the-digits-in-an-array) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Adi-God-7/Leet/tree/master/3312-sorted-gcd-pair-queries) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Adi-God-7/Leet/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/Adi-God-7/Leet/tree/master/0292-nim-game) |
 | [0342-power-of-four](https://github.com/Adi-God-7/Leet/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Adi-God-7/Leet/tree/master/0509-fibonacci-number) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Adi-God-7/Leet/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Adi-God-7/Leet/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Adi-God-7/Leet/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Adi-God-7/Leet/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/Adi-God-7/Leet/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Adi-God-7/Leet/tree/master/0268-missing-number) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Adi-God-7/Leet/tree/master/3312-sorted-gcd-pair-queries) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -82,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Adi-God-7/Leet/tree/master/0268-missing-number) |
 | [0299-bulls-and-cows](https://github.com/Adi-God-7/Leet/tree/master/0299-bulls-and-cows) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Adi-God-7/Leet/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Adi-God-7/Leet/tree/master/3312-sorted-gcd-pair-queries) |
 ## Geometry
 |  |
 | ------- |
@@ -97,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Adi-God-7/Leet/tree/master/0169-majority-element) |
 | [0299-bulls-and-cows](https://github.com/Adi-God-7/Leet/tree/master/0299-bulls-and-cows) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Adi-God-7/Leet/tree/master/3312-sorted-gcd-pair-queries) |
 ## Database
 |  |
 | ------- |
@@ -106,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Adi-God-7/Leet/tree/master/0238-product-of-array-except-self) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Adi-God-7/Leet/tree/master/3312-sorted-gcd-pair-queries) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -145,10 +151,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Adi-God-7/Leet/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Adi-God-7/Leet/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Adi-God-7/Leet/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Adi-God-7/Leet/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Combinatorics
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Adi-God-7/Leet/tree/master/3312-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->
