@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/Adi-God-7/Leet/tree/master/0292-nim-game) |
 | [0342-power-of-four](https://github.com/Adi-God-7/Leet/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Adi-God-7/Leet/tree/master/0509-fibonacci-number) |
+| [1025-divisor-game](https://github.com/Adi-God-7/Leet/tree/master/1025-divisor-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Adi-God-7/Leet/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Adi-God-7/Leet/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Adi-God-7/Leet/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Adi-God-7/Leet/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0279-perfect-squares](https://github.com/Adi-God-7/Leet/tree/master/0279-perfect-squares) |
 | [0509-fibonacci-number](https://github.com/Adi-God-7/Leet/tree/master/0509-fibonacci-number) |
+| [1025-divisor-game](https://github.com/Adi-God-7/Leet/tree/master/1025-divisor-game) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -132,10 +134,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Adi-God-7/Leet/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/Adi-God-7/Leet/tree/master/1025-divisor-game) |
 ## Game Theory
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Adi-God-7/Leet/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/Adi-God-7/Leet/tree/master/1025-divisor-game) |
 ## Matrix
 |  |
 | ------- |
