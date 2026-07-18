@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/Adi-God-7/Leet/tree/master/0279-perfect-squares) |
+| [0765-couples-holding-hands](https://github.com/Adi-God-7/Leet/tree/master/0765-couples-holding-hands) |
 ## Brainteaser
 |  |
 | ------- |
@@ -169,4 +170,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/Adi-God-7/Leet/tree/master/3312-sorted-gcd-pair-queries) |
+## Greedy
+|  |
+| ------- |
+| [0765-couples-holding-hands](https://github.com/Adi-God-7/Leet/tree/master/0765-couples-holding-hands) |
+## Depth-First Search
+|  |
+| ------- |
+| [0765-couples-holding-hands](https://github.com/Adi-God-7/Leet/tree/master/0765-couples-holding-hands) |
+## Union-Find
+|  |
+| ------- |
+| [0765-couples-holding-hands](https://github.com/Adi-God-7/Leet/tree/master/0765-couples-holding-hands) |
+## Graph Theory
+|  |
+| ------- |
+| [0765-couples-holding-hands](https://github.com/Adi-God-7/Leet/tree/master/0765-couples-holding-hands) |
 <!---LeetCode Topics End-->
