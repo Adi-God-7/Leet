@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/Adi-God-7/Leet/tree/master/0289-game-of-life) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Adi-God-7/Leet/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Adi-God-7/Leet/tree/master/0485-max-consecutive-ones) |
+| [0645-set-mismatch](https://github.com/Adi-God-7/Leet/tree/master/0645-set-mismatch) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Adi-God-7/Leet/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Adi-God-7/Leet/tree/master/2553-separate-the-digits-in-an-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Adi-God-7/Leet/tree/master/3312-sorted-gcd-pair-queries) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Adi-God-7/Leet/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Adi-God-7/Leet/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Adi-God-7/Leet/tree/master/0268-missing-number) |
+| [0645-set-mismatch](https://github.com/Adi-God-7/Leet/tree/master/0645-set-mismatch) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Adi-God-7/Leet/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Adi-God-7/Leet/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Adi-God-7/Leet/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Adi-God-7/Leet/tree/master/0342-power-of-four) |
+| [0645-set-mismatch](https://github.com/Adi-God-7/Leet/tree/master/0645-set-mismatch) |
 ## Hash Table
 |  |
 | ------- |
@@ -87,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Adi-God-7/Leet/tree/master/0268-missing-number) |
 | [0299-bulls-and-cows](https://github.com/Adi-God-7/Leet/tree/master/0299-bulls-and-cows) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Adi-God-7/Leet/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0645-set-mismatch](https://github.com/Adi-God-7/Leet/tree/master/0645-set-mismatch) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Adi-God-7/Leet/tree/master/3312-sorted-gcd-pair-queries) |
 ## Geometry
 |  |
