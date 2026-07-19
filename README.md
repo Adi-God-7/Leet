@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0299-bulls-and-cows](https://github.com/Adi-God-7/Leet/tree/master/0299-bulls-and-cows) |
 | [0316-remove-duplicate-letters](https://github.com/Adi-God-7/Leet/tree/master/0316-remove-duplicate-letters) |
 | [0848-shifting-letters](https://github.com/Adi-God-7/Leet/tree/master/0848-shifting-letters) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Adi-God-7/Leet/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Math
 |  |
 | ------- |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Adi-God-7/Leet/tree/master/0316-remove-duplicate-letters) |
 | [0765-couples-holding-hands](https://github.com/Adi-God-7/Leet/tree/master/0765-couples-holding-hands) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Adi-God-7/Leet/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -203,8 +205,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Adi-God-7/Leet/tree/master/0316-remove-duplicate-letters) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Adi-God-7/Leet/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Adi-God-7/Leet/tree/master/0316-remove-duplicate-letters) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Adi-God-7/Leet/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
