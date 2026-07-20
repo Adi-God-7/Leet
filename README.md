@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Adi-God-7/Leet/tree/master/0136-single-number) |
 | [0149-max-points-on-a-line](https://github.com/Adi-God-7/Leet/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/Adi-God-7/Leet/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Adi-God-7/Leet/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Adi-God-7/Leet/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Adi-God-7/Leet/tree/master/0268-missing-number) |
 | [0289-game-of-life](https://github.com/Adi-God-7/Leet/tree/master/0289-game-of-life) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Adi-God-7/Leet/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Adi-God-7/Leet/tree/master/0069-sqrtx) |
 | [0149-max-points-on-a-line](https://github.com/Adi-God-7/Leet/tree/master/0149-max-points-on-a-line) |
+| [0189-rotate-array](https://github.com/Adi-God-7/Leet/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Adi-God-7/Leet/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Adi-God-7/Leet/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Adi-God-7/Leet/tree/master/0268-missing-number) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Adi-God-7/Leet/tree/master/0189-rotate-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Adi-God-7/Leet/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
 |  |
