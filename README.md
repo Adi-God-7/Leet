@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Adi-God-7/Leet/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1200-minimum-absolute-difference](https://github.com/Adi-God-7/Leet/tree/master/1200-minimum-absolute-difference) |
 | [1260-shift-2d-grid](https://github.com/Adi-God-7/Leet/tree/master/1260-shift-2d-grid) |
+| [1528-shuffle-string](https://github.com/Adi-God-7/Leet/tree/master/1528-shuffle-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Adi-God-7/Leet/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Adi-God-7/Leet/tree/master/2553-separate-the-digits-in-an-array) |
 | [2815-max-pair-sum-in-an-array](https://github.com/Adi-God-7/Leet/tree/master/2815-max-pair-sum-in-an-array) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/Adi-God-7/Leet/tree/master/0316-remove-duplicate-letters) |
 | [0848-shifting-letters](https://github.com/Adi-God-7/Leet/tree/master/0848-shifting-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Adi-God-7/Leet/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1528-shuffle-string](https://github.com/Adi-God-7/Leet/tree/master/1528-shuffle-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Adi-God-7/Leet/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Math
 |  |
