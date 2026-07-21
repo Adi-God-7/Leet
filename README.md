@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/Adi-God-7/Leet/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Adi-God-7/Leet/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/Adi-God-7/Leet/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Adi-God-7/Leet/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Adi-God-7/Leet/tree/master/0136-single-number) |
 | [0149-max-points-on-a-line](https://github.com/Adi-God-7/Leet/tree/master/0149-max-points-on-a-line) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Adi-God-7/Leet/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/Adi-God-7/Leet/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/Adi-God-7/Leet/tree/master/0268-missing-number) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Adi-God-7/Leet/tree/master/3312-sorted-gcd-pair-queries) |
 ## Dynamic Programming
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Adi-God-7/Leet/tree/master/0074-search-a-2d-matrix) |
 | [0289-game-of-life](https://github.com/Adi-God-7/Leet/tree/master/0289-game-of-life) |
 | [1260-shift-2d-grid](https://github.com/Adi-God-7/Leet/tree/master/1260-shift-2d-grid) |
 ## Simulation
