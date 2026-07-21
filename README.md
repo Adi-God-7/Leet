@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/Adi-God-7/Leet/tree/master/1260-shift-2d-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Adi-God-7/Leet/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Adi-God-7/Leet/tree/master/2553-separate-the-digits-in-an-array) |
+| [2815-max-pair-sum-in-an-array](https://github.com/Adi-God-7/Leet/tree/master/2815-max-pair-sum-in-an-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Adi-God-7/Leet/tree/master/3312-sorted-gcd-pair-queries) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Adi-God-7/Leet/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Adi-God-7/Leet/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/Adi-God-7/Leet/tree/master/0645-set-mismatch) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Adi-God-7/Leet/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [2815-max-pair-sum-in-an-array](https://github.com/Adi-God-7/Leet/tree/master/2815-max-pair-sum-in-an-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Adi-God-7/Leet/tree/master/3312-sorted-gcd-pair-queries) |
 ## Geometry
 |  |
