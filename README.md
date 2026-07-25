@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Adi-God-7/Leet/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/Adi-God-7/Leet/tree/master/0645-set-mismatch) |
 | [1200-minimum-absolute-difference](https://github.com/Adi-God-7/Leet/tree/master/1200-minimum-absolute-difference) |
+| [3536-maximum-product-of-two-digits](https://github.com/Adi-God-7/Leet/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Adi-God-7/Leet/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Adi-God-7/Leet/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Adi-God-7/Leet/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Adi-God-7/Leet/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3536-maximum-product-of-two-digits](https://github.com/Adi-God-7/Leet/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Adi-God-7/Leet/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Adi-God-7/Leet/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Adi-God-7/Leet/tree/master/3867-sum-of-gcd-of-formed-pairs) |
