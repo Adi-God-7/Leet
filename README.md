@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/Adi-God-7/Leet/tree/master/0289-game-of-life) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Adi-God-7/Leet/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Adi-God-7/Leet/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/Adi-God-7/Leet/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Adi-God-7/Leet/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Adi-God-7/Leet/tree/master/0645-set-mismatch) |
 | [0848-shifting-letters](https://github.com/Adi-God-7/Leet/tree/master/0848-shifting-letters) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/Adi-God-7/Leet/tree/master/0279-perfect-squares) |
 | [0292-nim-game](https://github.com/Adi-God-7/Leet/tree/master/0292-nim-game) |
 | [0342-power-of-four](https://github.com/Adi-God-7/Leet/tree/master/0342-power-of-four) |
+| [0486-predict-the-winner](https://github.com/Adi-God-7/Leet/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Adi-God-7/Leet/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Adi-God-7/Leet/tree/master/0628-maximum-product-of-three-numbers) |
 | [1025-divisor-game](https://github.com/Adi-God-7/Leet/tree/master/1025-divisor-game) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Adi-God-7/Leet/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0279-perfect-squares](https://github.com/Adi-God-7/Leet/tree/master/0279-perfect-squares) |
+| [0486-predict-the-winner](https://github.com/Adi-God-7/Leet/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Adi-God-7/Leet/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/Adi-God-7/Leet/tree/master/1025-divisor-game) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Adi-God-7/Leet/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -198,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Adi-God-7/Leet/tree/master/0292-nim-game) |
+| [0486-predict-the-winner](https://github.com/Adi-God-7/Leet/tree/master/0486-predict-the-winner) |
 | [1025-divisor-game](https://github.com/Adi-God-7/Leet/tree/master/1025-divisor-game) |
 ## Matrix
 |  |
@@ -218,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Adi-God-7/Leet/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/Adi-God-7/Leet/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Adi-God-7/Leet/tree/master/0342-power-of-four) |
+| [0486-predict-the-winner](https://github.com/Adi-God-7/Leet/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Adi-God-7/Leet/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
