@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Adi-God-7/Leet/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Adi-God-7/Leet/tree/master/1025-divisor-game) |
 | [1406-stone-game-iii](https://github.com/Adi-God-7/Leet/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Adi-God-7/Leet/tree/master/1510-stone-game-iv) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Adi-God-7/Leet/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Adi-God-7/Leet/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Adi-God-7/Leet/tree/master/3312-sorted-gcd-pair-queries) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Adi-God-7/Leet/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Adi-God-7/Leet/tree/master/1025-divisor-game) |
 | [1406-stone-game-iii](https://github.com/Adi-God-7/Leet/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Adi-God-7/Leet/tree/master/1510-stone-game-iv) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Adi-God-7/Leet/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Adi-God-7/Leet/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Bit Manipulation
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Adi-God-7/Leet/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Adi-God-7/Leet/tree/master/1025-divisor-game) |
 | [1406-stone-game-iii](https://github.com/Adi-God-7/Leet/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Adi-God-7/Leet/tree/master/1510-stone-game-iv) |
 ## Matrix
 |  |
 | ------- |
@@ -332,8 +335,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/Adi-God-7/Leet/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Adi-God-7/Leet/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/Adi-God-7/Leet/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Adi-God-7/Leet/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Adi-God-7/Leet/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Adi-God-7/Leet/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
