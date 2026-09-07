@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0299-bulls-and-cows](https://github.com/Adi-God-7/Leet/tree/master/0299-bulls-and-cows) |
 | [0316-remove-duplicate-letters](https://github.com/Adi-God-7/Leet/tree/master/0316-remove-duplicate-letters) |
 | [0848-shifting-letters](https://github.com/Adi-God-7/Leet/tree/master/0848-shifting-letters) |
+| [0940-distinct-subsequences-ii](https://github.com/Adi-God-7/Leet/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Adi-God-7/Leet/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1528-shuffle-string](https://github.com/Adi-God-7/Leet/tree/master/1528-shuffle-string) |
 | [1927-sum-game](https://github.com/Adi-God-7/Leet/tree/master/1927-sum-game) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Adi-God-7/Leet/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Adi-God-7/Leet/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Adi-God-7/Leet/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/Adi-God-7/Leet/tree/master/0940-distinct-subsequences-ii) |
 | [1025-divisor-game](https://github.com/Adi-God-7/Leet/tree/master/1025-divisor-game) |
 | [1406-stone-game-iii](https://github.com/Adi-God-7/Leet/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Adi-God-7/Leet/tree/master/1510-stone-game-iv) |
