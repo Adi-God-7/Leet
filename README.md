@@ -358,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0765-couples-holding-hands](https://github.com/Adi-God-7/Leet/tree/master/0765-couples-holding-hands) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Adi-God-7/Leet/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/Adi-God-7/Leet/tree/master/3310-remove-methods-from-project) |
 ## Union-Find
 |  |
@@ -428,4 +429,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Adi-God-7/Leet/tree/master/1510-stone-game-iv) |
+## Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Adi-God-7/Leet/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Binary Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Adi-God-7/Leet/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 <!---LeetCode Topics End-->
