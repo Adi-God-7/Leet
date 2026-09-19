@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/Adi-God-7/Leet/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Adi-God-7/Leet/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Adi-God-7/Leet/tree/master/1025-divisor-game) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Adi-God-7/Leet/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/Adi-God-7/Leet/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Adi-God-7/Leet/tree/master/1510-stone-game-iv) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Adi-God-7/Leet/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/Adi-God-7/Leet/tree/master/0149-max-points-on-a-line) |
 | [0836-rectangle-overlap](https://github.com/Adi-God-7/Leet/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Adi-God-7/Leet/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Divide and Conquer
 |  |
 | ------- |
