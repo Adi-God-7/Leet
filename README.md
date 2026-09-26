@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Adi-God-7/Leet/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Adi-God-7/Leet/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Adi-God-7/Leet/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Adi-God-7/Leet/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/Adi-God-7/Leet/tree/master/0149-max-points-on-a-line) |
 | [0189-rotate-array](https://github.com/Adi-God-7/Leet/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Adi-God-7/Leet/tree/master/0231-power-of-two) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Adi-God-7/Leet/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/Adi-God-7/Leet/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Adi-God-7/Leet/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0279-perfect-squares](https://github.com/Adi-God-7/Leet/tree/master/0279-perfect-squares) |
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Adi-God-7/Leet/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Adi-God-7/Leet/tree/master/0509-fibonacci-number) |
 ## Enumeration
 |  |
