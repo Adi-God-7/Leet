@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Adi-God-7/Leet/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Adi-God-7/Leet/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Adi-God-7/Leet/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/Adi-God-7/Leet/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Adi-God-7/Leet/tree/master/0058-length-of-last-word) |
 | [0115-distinct-subsequences](https://github.com/Adi-God-7/Leet/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Adi-God-7/Leet/tree/master/0125-valid-palindrome) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Adi-God-7/Leet/tree/master/0032-longest-valid-parentheses) |
 | [0070-climbing-stairs](https://github.com/Adi-God-7/Leet/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/Adi-God-7/Leet/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Adi-God-7/Leet/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -419,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Adi-God-7/Leet/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Adi-God-7/Leet/tree/master/0032-longest-valid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/Adi-God-7/Leet/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Adi-God-7/Leet/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Adi-God-7/Leet/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -492,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Adi-God-7/Leet/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Adi-God-7/Leet/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Adi-God-7/Leet/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Adi-God-7/Leet/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Adi-God-7/Leet/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
