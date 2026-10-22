@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/Adi-God-7/Leet/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/Adi-God-7/Leet/tree/master/0344-reverse-string) |
 | [0678-valid-parenthesis-string](https://github.com/Adi-God-7/Leet/tree/master/0678-valid-parenthesis-string) |
+| [0771-jewels-and-stones](https://github.com/Adi-God-7/Leet/tree/master/0771-jewels-and-stones) |
 | [0848-shifting-letters](https://github.com/Adi-God-7/Leet/tree/master/0848-shifting-letters) |
 | [0856-score-of-parentheses](https://github.com/Adi-God-7/Leet/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Adi-God-7/Leet/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0299-bulls-and-cows](https://github.com/Adi-God-7/Leet/tree/master/0299-bulls-and-cows) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Adi-God-7/Leet/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/Adi-God-7/Leet/tree/master/0645-set-mismatch) |
+| [0771-jewels-and-stones](https://github.com/Adi-God-7/Leet/tree/master/0771-jewels-and-stones) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Adi-God-7/Leet/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Adi-God-7/Leet/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Adi-God-7/Leet/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
