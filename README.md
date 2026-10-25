@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Adi-God-7/Leet/tree/master/0877-stone-game) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Adi-God-7/Leet/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1200-minimum-absolute-difference](https://github.com/Adi-God-7/Leet/tree/master/1200-minimum-absolute-difference) |
+| [1254-number-of-closed-islands](https://github.com/Adi-God-7/Leet/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Adi-God-7/Leet/tree/master/1260-shift-2d-grid) |
 | [1406-stone-game-iii](https://github.com/Adi-God-7/Leet/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Adi-God-7/Leet/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/Adi-God-7/Leet/tree/master/0279-perfect-squares) |
 | [0301-remove-invalid-parentheses](https://github.com/Adi-God-7/Leet/tree/master/0301-remove-invalid-parentheses) |
 | [0765-couples-holding-hands](https://github.com/Adi-God-7/Leet/tree/master/0765-couples-holding-hands) |
+| [1254-number-of-closed-islands](https://github.com/Adi-God-7/Leet/tree/master/1254-number-of-closed-islands) |
 | [3310-remove-methods-from-project](https://github.com/Adi-God-7/Leet/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Adi-God-7/Leet/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Brainteaser
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Adi-God-7/Leet/tree/master/0074-search-a-2d-matrix) |
 | [0289-game-of-life](https://github.com/Adi-God-7/Leet/tree/master/0289-game-of-life) |
+| [1254-number-of-closed-islands](https://github.com/Adi-God-7/Leet/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Adi-God-7/Leet/tree/master/1260-shift-2d-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Adi-God-7/Leet/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Simulation
@@ -457,12 +460,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0765-couples-holding-hands](https://github.com/Adi-God-7/Leet/tree/master/0765-couples-holding-hands) |
+| [1254-number-of-closed-islands](https://github.com/Adi-God-7/Leet/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Adi-God-7/Leet/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/Adi-God-7/Leet/tree/master/3310-remove-methods-from-project) |
 ## Union-Find
 |  |
 | ------- |
 | [0765-couples-holding-hands](https://github.com/Adi-God-7/Leet/tree/master/0765-couples-holding-hands) |
+| [1254-number-of-closed-islands](https://github.com/Adi-God-7/Leet/tree/master/1254-number-of-closed-islands) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Adi-God-7/Leet/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Graph Theory
 |  |
