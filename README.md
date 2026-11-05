@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/Adi-God-7/Leet/tree/master/1200-minimum-absolute-difference) |
 | [1254-number-of-closed-islands](https://github.com/Adi-God-7/Leet/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Adi-God-7/Leet/tree/master/1260-shift-2d-grid) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Adi-God-7/Leet/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1406-stone-game-iii](https://github.com/Adi-God-7/Leet/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Adi-God-7/Leet/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Adi-God-7/Leet/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Adi-God-7/Leet/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Adi-God-7/Leet/tree/master/0645-set-mismatch) |
 | [1200-minimum-absolute-difference](https://github.com/Adi-God-7/Leet/tree/master/1200-minimum-absolute-difference) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Adi-God-7/Leet/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Adi-God-7/Leet/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Adi-God-7/Leet/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Adi-God-7/Leet/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Adi-God-7/Leet/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/Adi-God-7/Leet/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/Adi-God-7/Leet/tree/master/0268-missing-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Adi-God-7/Leet/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Adi-God-7/Leet/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Adi-God-7/Leet/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Adi-God-7/Leet/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -448,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Adi-God-7/Leet/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Adi-God-7/Leet/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/Adi-God-7/Leet/tree/master/0344-reverse-string) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Adi-God-7/Leet/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Adi-God-7/Leet/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Adi-God-7/Leet/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Adi-God-7/Leet/tree/master/3867-sum-of-gcd-of-formed-pairs) |
