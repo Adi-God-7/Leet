@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/Adi-God-7/Leet/tree/master/1200-minimum-absolute-difference) |
 | [1254-number-of-closed-islands](https://github.com/Adi-God-7/Leet/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Adi-God-7/Leet/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/Adi-God-7/Leet/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Adi-God-7/Leet/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1406-stone-game-iii](https://github.com/Adi-God-7/Leet/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Adi-God-7/Leet/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Adi-God-7/Leet/tree/master/0169-majority-element) |
 | [0299-bulls-and-cows](https://github.com/Adi-God-7/Leet/tree/master/0299-bulls-and-cows) |
+| [1267-count-servers-that-communicate](https://github.com/Adi-God-7/Leet/tree/master/1267-count-servers-that-communicate) |
 | [2029-stone-game-ix](https://github.com/Adi-God-7/Leet/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Adi-God-7/Leet/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Adi-God-7/Leet/tree/master/3312-sorted-gcd-pair-queries) |
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/Adi-God-7/Leet/tree/master/0301-remove-invalid-parentheses) |
 | [0765-couples-holding-hands](https://github.com/Adi-God-7/Leet/tree/master/0765-couples-holding-hands) |
 | [1254-number-of-closed-islands](https://github.com/Adi-God-7/Leet/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Adi-God-7/Leet/tree/master/1267-count-servers-that-communicate) |
 | [3310-remove-methods-from-project](https://github.com/Adi-God-7/Leet/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Adi-God-7/Leet/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Adi-God-7/Leet/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -396,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/Adi-God-7/Leet/tree/master/0289-game-of-life) |
 | [1254-number-of-closed-islands](https://github.com/Adi-God-7/Leet/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Adi-God-7/Leet/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/Adi-God-7/Leet/tree/master/1267-count-servers-that-communicate) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Adi-God-7/Leet/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Adi-God-7/Leet/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3665-twisted-mirror-path-count](https://github.com/Adi-God-7/Leet/tree/master/3665-twisted-mirror-path-count) |
@@ -487,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0765-couples-holding-hands](https://github.com/Adi-God-7/Leet/tree/master/0765-couples-holding-hands) |
 | [1254-number-of-closed-islands](https://github.com/Adi-God-7/Leet/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Adi-God-7/Leet/tree/master/1267-count-servers-that-communicate) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Adi-God-7/Leet/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/Adi-God-7/Leet/tree/master/3310-remove-methods-from-project) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Adi-God-7/Leet/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -496,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0765-couples-holding-hands](https://github.com/Adi-God-7/Leet/tree/master/0765-couples-holding-hands) |
 | [1254-number-of-closed-islands](https://github.com/Adi-God-7/Leet/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Adi-God-7/Leet/tree/master/1267-count-servers-that-communicate) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Adi-God-7/Leet/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Adi-God-7/Leet/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
